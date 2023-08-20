@@ -1,0 +1,25 @@
+{
+  "name": "astaria-web3-sdk-nodejs",
+  "version": "1.0.0",
+  "description": "Node js module for Astaria Web3 SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astaria/astaria-web3-sdk-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "astaria",
+    "web3",
+    "sdk"
+  ],
+  "author": "Hanyeol Cho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astaria/astaria-web3-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/astaria/astaria-web3-sdk-nodejs#readme"
+}

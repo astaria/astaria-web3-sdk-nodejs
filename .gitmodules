@@ -1,0 +1,3 @@
+[submodule "astaria-web3-sdk"]
+	path = astaria-web3-sdk
+	url = https://github.com/astaria/astaria-web3-sdk.git
